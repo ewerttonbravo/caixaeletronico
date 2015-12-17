@@ -1,2 +1,2 @@
 # caixaeletronico
-TDD problem: AMT
+TDD problem: ATM
